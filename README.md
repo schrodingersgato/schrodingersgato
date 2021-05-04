@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schrodingersgato
-- 👀 I’m interested in technical writing
+- 👀 I’m interested in **technical writing**
 - 🌱 I’m currently learning git, github and technical writing
 - 💞️ I’m looking to collaborate on open source documentation
 
